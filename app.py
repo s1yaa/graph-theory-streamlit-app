@@ -9,7 +9,6 @@ import itertools
 import random
 import copy
 import base64
-import wheel
 
 student_name = "Siya Kolwalkar"
 student_roll = "24B-CO-065"
